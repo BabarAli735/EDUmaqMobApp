@@ -1,0 +1,3 @@
+export const HOMEWORKS_REQUEST = 'homework/HOMEWORKS_REQUEST';
+export const HOMEWORKS_SUCCESS = 'homework/HOMEWORKS_SUCCESS';
+export const HOMEWORKS_FAILURE = 'homework/HOMEWORKS_FAILURE';

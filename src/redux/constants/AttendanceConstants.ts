@@ -1,0 +1,3 @@
+export const ATTENDANCE_REQUEST = 'attendance/ATTENDANCE_REQUEST';
+export const ATTENDANCE_SUCCESS = 'attendance/ATTENDANCE_SUCCESS';
+export const ATTENDANCE_FAILURE = 'attendance/ATTENDANCE_FAILURE';
